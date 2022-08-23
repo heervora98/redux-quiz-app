@@ -1,0 +1,257 @@
+{
+  "quizdata": [
+    {
+      "id": "8bc987e0-9156-4563-9588-d3460abd9bff",
+      "question": " Brain of computer is",
+      "options": [
+        {
+          "id": "69d06d6b-0883-4b36-8e90-6825d9aa7dfd",
+          "optionData": "Cpu"
+        },
+        {
+          "id": "5d96b445-eb41-41ae-8f19-b7e3874a60c5",
+          "optionData": "mouse"
+        },
+        {
+          "id": "4bfb0cb3-249d-49ab-98bc-663893df4ef4",
+          "optionData": "kyebord"
+        },
+        {
+          "id": "f450515b-a3c2-47ba-b6ea-0273bc6ca1fa",
+          "optionData": "no one"
+        }
+      ],
+      "answerkey": "69d06d6b-0883-4b36-8e90-6825d9aa7dfd"
+    },
+    {
+      "id": "d2332441-b805-458a-94b1-9e56393ef79a",
+      "question": "How many Cricket world cups does India have?",
+      "options": [
+        {
+          "id": "43cf3bd4-dc41-4485-b2d9-06a89b73a38b",
+          "optionData": "2"
+        },
+        {
+          "id": "efafb5b5-bcc6-41b8-86d2-18d5834e42c8",
+          "optionData": "1"
+        },
+        {
+          "id": "c30a84d1-e87c-411f-a1d0-df7b44c03d4d",
+          "optionData": "5"
+        },
+        {
+          "id": "4453c3a4-a629-43ff-8b8d-9e46ac7fd1a3",
+          "optionData": "6"
+        }
+      ],
+      "answerkey": "43cf3bd4-dc41-4485-b2d9-06a89b73a38b"
+    },
+    {
+      "id": "b6e1fc0c-e727-4385-ab1d-d17e3e432fa8",
+      "question": "Gir National Park in Gujarat is famous for?",
+      "options": [
+        {
+          "id": "90309d19-a75d-4276-a6c1-26ed6cd724e1",
+          "optionData": "Lion"
+        },
+        {
+          "id": "4f8e6c8f-f85e-40ab-9387-5eebb8753917",
+          "optionData": "Bear"
+        },
+        {
+          "id": "60b8f3df-b98c-4c2c-9acf-a086b340143b",
+          "optionData": "cheetah"
+        },
+        {
+          "id": "9ab6dd8a-c085-4802-a488-b7a3868b3d1f",
+          "optionData": "Tiger"
+        }
+      ],
+      "answerkey": "90309d19-a75d-4276-a6c1-26ed6cd724e1"
+    },
+    {
+      "id": "bddede58-c374-452c-9a93-8639b7e3b3b3",
+      "question": "Name the game which is played with bat, ball and wicket?",
+      "options": [
+        {
+          "id": "ccef4913-ac94-4474-9ee7-1bfb09afb0f6",
+          "optionData": "Cricket"
+        },
+        {
+          "id": "3fc1f5de-bbe1-4cde-8dbc-e31c08d777aa",
+          "optionData": "chess"
+        },
+        {
+          "id": "33c3baeb-8e5d-4762-aa5b-604706eae63d",
+          "optionData": "swimming"
+        },
+        {
+          "id": "bf237fe8-0545-4a7e-80c8-42e0b3c26a35",
+          "optionData": "shooting"
+        }
+      ],
+      "answerkey": "ccef4913-ac94-4474-9ee7-1bfb09afb0f6"
+    },
+    {
+      "id": "c5b08327-2d5c-4fac-b406-eaef1f2ba3f3",
+      "question": "National Tree of India is?",
+      "options": [
+        {
+          "id": "322c30a3-9fc1-41bc-9dd4-23f0dd082541",
+          "optionData": "Banyan tree"
+        },
+        {
+          "id": "9cfb5ffe-8426-491b-b6f1-89875ccb5621",
+          "optionData": "Aspen trees"
+        },
+        {
+          "id": "74975ba4-6184-42fa-a4fa-d85855a85093",
+          "optionData": "Crabapple trees"
+        },
+        {
+          "id": "dbbfa4c4-d044-4d70-8725-1a5aa73d0e60",
+          "optionData": "Conifer trees"
+        }
+      ],
+      "answerkey": "322c30a3-9fc1-41bc-9dd4-23f0dd082541"
+    },
+    {
+      "id": "b0bc4590-e292-4186-9b97-e57c0194cf60",
+      "question": "Who is the Father of our Nation?",
+      "options": [
+        {
+          "id": "1ddc0896-0fe6-45c9-80db-c5ccc7a679c6",
+          "optionData": "Mahatma Gandhi"
+        },
+        {
+          "id": "56d1e3f1-490a-4c2e-a2cc-def3aced7cfd",
+          "optionData": "Sardar patel"
+        },
+        {
+          "id": "203d17ae-292b-43f7-8ecb-64a90b590078",
+          "optionData": "Modi"
+        },
+        {
+          "id": "f17f21a0-27d1-4064-8d2c-e4aba0ba3e25",
+          "optionData": "Indira Gandhi"
+        }
+      ],
+      "answerkey": "1ddc0896-0fe6-45c9-80db-c5ccc7a679c6"
+    },
+    {
+      "id": "581b9421-67f6-4ff9-98e8-a0dee38cb2e8",
+      "question": "Who was the first President of India?",
+      "options": [
+        {
+          "id": "b014e993-75a4-4fe8-842c-9627c1b97971",
+          "optionData": "Dr. Rajendra Prasad"
+        },
+        {
+          "id": "09a6df1c-59da-4062-a97f-7f2c39beb8cd",
+          "optionData": "Amit Shah"
+        },
+        {
+          "id": "60a50ea8-3ad5-4f35-83c1-5de00147e6f5",
+          "optionData": "Pratibha Patil"
+        },
+        {
+          "id": "e9c26273-4227-4f98-a0c3-e5d5837066a5",
+          "optionData": "M. Venkaiah Naidu"
+        }
+      ],
+      "answerkey": "b014e993-75a4-4fe8-842c-9627c1b97971"
+    },
+    {
+      "id": "0ac23bca-3ffe-4e10-93c9-696f851c2a9e",
+      "question": "Which is the most sensitive organ in our body?",
+      "options": [
+        {
+          "id": "65a73be2-c88e-47da-ad97-67ce96d0e534",
+          "optionData": "Skin"
+        },
+        {
+          "id": "fc730a5c-6b2a-4bfd-8176-fdf223ed78f4",
+          "optionData": "eye"
+        },
+        {
+          "id": "f93e79da-985d-4971-be99-5ec1a463e725",
+          "optionData": "hand"
+        },
+        {
+          "id": "022151b3-12b7-49a1-88ba-d2118905532e",
+          "optionData": "finger"
+        }
+      ],
+      "answerkey": "65a73be2-c88e-47da-ad97-67ce96d0e534"
+    },
+    {
+      "id": "5f3aa67e-0ed7-4947-8771-83c1f7f95d91",
+      "question": "Giddha is the folk dance of?",
+      "options": [
+        {
+          "id": "4ba6eb43-2337-431c-a4a0-0ce213f00b39",
+          "optionData": "Panjab"
+        },
+        {
+          "id": "a394e683-371b-477f-849b-2175dfe5a5e6",
+          "optionData": "Gujrat"
+        },
+        {
+          "id": "bd45657d-4d2d-4495-b3f6-c94190a055bc",
+          "optionData": "Maharstra"
+        },
+        {
+          "id": "1e8508ec-d089-4573-9bcb-5ff4e756aa78",
+          "optionData": "Rajeshthan"
+        }
+      ],
+      "answerkey": "4ba6eb43-2337-431c-a4a0-0ce213f00b39"
+    },
+    {
+      "id": "ca3186bf-64b0-43ab-b889-2a7770fde46a",
+      "question": "how many states in india ?",
+      "options": [
+        {
+          "id": "9a5cb2fa-1be9-4fe6-b233-fc7bdbcd8103",
+          "optionData": "28"
+        },
+        {
+          "id": "497888c0-b6d8-43a9-888c-e73987fcbd62",
+          "optionData": "20"
+        },
+        {
+          "id": "d8ffab66-f728-4c96-82be-4e7d2cb751db",
+          "optionData": "24"
+        },
+        {
+          "id": "557e83f5-b4f7-4431-9192-b439149688ba",
+          "optionData": "27"
+        }
+      ],
+      "answerkey": "9a5cb2fa-1be9-4fe6-b233-fc7bdbcd8103"
+    },
+    {
+      "id": "58cef846-10c2-4534-8579-6d45830bed0d",
+      "question": "what is your fav color",
+      "options": [
+        {
+          "id": "6f4b55a3-11a5-40ed-a4a2-794fa3702d8d",
+          "optionData": "red"
+        },
+        {
+          "id": "1b0af733-194d-47a8-a6c2-3b99817df3ae",
+          "optionData": "pink"
+        },
+        {
+          "id": "0ac26555-cf21-4bdd-919d-ddc3c184f7d7",
+          "optionData": "black"
+        },
+        {
+          "id": "74e9ab0f-0c00-45da-9e0c-ac23b401ea88",
+          "optionData": "yellow"
+        }
+      ],
+      "answerkey": "0ac26555-cf21-4bdd-919d-ddc3c184f7d7"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.form-position{
+  /* display: flex; */
+  justify-content: center;
+  margin-top: 22%;
+  align-items: center;
+}
+.form-btn{
+  align-items: center;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.outLine{
+  background: rgba( 255, 255, 255, 0.2 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 5.5px );
+  -webkit-backdrop-filter: blur( 5.5px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+  padding: 54px 122px;
+}
+
+.form-size{
+  width: 100%;
+}
+
+.login-head{
+  margin-left: 35%;
+  margin-bottom: 10px;
+  align-items: center;
+}
+
+.background{
+  background-image: url('./assats/BG-4.jpg');
+  height: 90vh;
+}
+
+.glass-background{
+  background: rgba( 255, 255, 255, 0.2 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 5.5px );
+  -webkit-backdrop-filter: blur( 5.5px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+  padding: 40px;
+}
+
+
+/* ..........btn.... */
+
+
+.optiondata{
+  display: flex !important; 
+  align-items: baseline;
+  margin-left: 10px;
+}
+.form-floating {
+  margin-left: 10px !important;
+}
+.quetion-title{
+  display: flex;
+  justify-content: center;
+}
+.question-position{
+  align-items: center;
+}
+
+.toggle-cbtn {
+  background: rgb(207,193,242);
+  background: linear-gradient(157deg, rgba(207,193,242,1) 31%, rgba(247,189,214,1) 100%);
+  /* color: white !important; */
+}
+
+/* .....exam page...... */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.check-lable > .check-lable-sub > input {
+  position: absolute;
+  visibility: hidden;
+}
+.check-lable{
+  position: relative;
+  padding: 1em 1em;
+  text-align: center;
+  display: inline-block;
+  padding-left: 20px;
+  cursor: pointer;
+}
+.lable-border{
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 15px 15px;
+  background-color: transparent;
+}
+.check-lable > .check-lable-sub > input:checked + .lable-border {
+  border: 2px solid rgb(235 190 222) !important;
+  /* color: rgb(255, 255, 255); */
+  background: linear-gradient(157deg, rgba(207,193,242,1) 31%, rgba(247,189,214,1) 100%);
+}
+.lable-text-wrapper{
+  overflow: hidden;
+}
+.btns{
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+}
+
+.exam-btn{
+  right: 0 !important;
+}
+
+.score-position{
+  margin-top: 10% !important;
+}
+.totle-text{
+  color: rgb(99, 99, 99);
+}
+.totle-count{
+  color: black;
+  font-size: 25px !important;
+  margin-left: 10px !important;
+  font-weight: 700;
+  color: #2E4053;
+}
